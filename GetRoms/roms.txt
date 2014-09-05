@@ -1,0 +1,2481 @@
+(dp1
+S'atari2600'
+p2
+(dp3
+S'Video Life'
+p4
+S'/roms/atari2600/15739/Video_Life.php'
+p5
+sS'M.A.D.'
+p6
+S'/roms/atari2600/15861/M.A.D..php'
+p7
+sS'Deadly Duck'
+p8
+S'/roms/atari2600/16179/Deadly_Duck.php'
+p9
+sS'Pitfall!'
+p10
+S'/roms/atari2600/15889/Pitfall!.php'
+p11
+sS'Bogey Blaster'
+p12
+S'/roms/atari2600/15916/Bogey_Blaster.php'
+p13
+sS'Gremlins'
+p14
+S'/roms/atari2600/16116/Gremlins.php'
+p15
+sS'Tapper'
+p16
+S'/roms/atari2600/16203/Tapper.php'
+p17
+sS'Room of Doom'
+p18
+S'/roms/atari2600/16326/Room_of_Doom.php'
+p19
+sS'Seaquest'
+p20
+S'/roms/atari2600/15972/Seaquest.php'
+p21
+sS'James Bond 007'
+p22
+S'/roms/atari2600/16247/James_Bond_007.php'
+p23
+sS'Bugs Bunny (Prototype)'
+p24
+S'/roms/atari2600/16220/Bugs_Bunny_(Prototype).php'
+p25
+sS'Color Bar Generator'
+p26
+S'/roms/atari2600/16242/Color_Bar_Generator.php'
+p27
+sS'Super-Man'
+p28
+S'/roms/atari2600/16001/Super-Man.php'
+p29
+sS'Masters of the Universe - the Power of He-Man'
+p30
+S'/roms/atari2600/16109/Masters_of_the_Universe_-_the_Power_of_He-Man.php'
+p31
+sS'Mountain King'
+p32
+S'/roms/atari2600/15991/Mountain_King.php'
+p33
+sS'Sorcerer'
+p34
+S'/roms/atari2600/16302/Sorcerer.php'
+p35
+sS'Wall Ball'
+p36
+S'/roms/atari2600/15926/Wall_Ball.php'
+p37
+sS'Cosmic Corridor'
+p38
+S'/roms/atari2600/16210/Cosmic_Corridor.php'
+p39
+sS'Galactic'
+p40
+S'/roms/atari2600/15859/Galactic.php'
+p41
+sS'Quick Step!'
+p42
+S'/roms/atari2600/15907/Quick_Step!.php'
+p43
+sS'32 in 1'
+p44
+S'/roms/atari2600/15917/32_in_1.php'
+p45
+sS'Fire Bird (Video Game Program)'
+p46
+S'/roms/atari2600/16057/Fire_Bird_(Video_Game_Program).php'
+p47
+sS'Condor Attack'
+p48
+S'/roms/atari2600/16157/Condor_Attack.php'
+p49
+sS'Dark Cavern'
+p50
+S'/roms/atari2600/16150/Dark_Cavern.php'
+p51
+sS'Cosmic Avenger'
+p52
+S'/roms/atari2600/15995/Cosmic_Avenger.php'
+p53
+sS'RealSports Soccer'
+p54
+S'/roms/atari2600/15776/RealSports_Soccer.php'
+p55
+sS'River Raid'
+p56
+S'/roms/atari2600/15882/River_Raid.php'
+p57
+sS'Jr. Pac-Man'
+p58
+S'/roms/atari2600/15941/Jr._Pac-Man.php'
+p59
+sS'Solar Storm'
+p60
+S'/roms/atari2600/16336/Solar_Storm.php'
+p61
+sS'Basic Programming'
+p62
+S'/roms/atari2600/16164/Basic_Programming.php'
+p63
+sS"Custer's Revenge"
+p64
+S"/roms/atari2600/15996/Custer's_Revenge.php"
+p65
+sS'Halloween (Sexta Fiera 13)'
+p66
+S'/roms/atari2600/16167/Halloween_(Sexta_Fiera_13).php'
+p67
+sS'Pac Kong'
+p68
+S'/roms/atari2600/15857/Pac_Kong.php'
+p69
+sS'Comitoid'
+p70
+S'/roms/atari2600/16186/Comitoid.php'
+p71
+sS'Crazy Valet'
+p72
+S'/roms/atari2600/15976/Crazy_Valet.php'
+p73
+sS'Mega Force'
+p74
+S'/roms/atari2600/16277/Mega_Force.php'
+p75
+sS'Cookie Monster Munch'
+p76
+S'/roms/atari2600/15958/Cookie_Monster_Munch.php'
+p77
+sS'Off Your Rocker'
+p78
+S'/roms/atari2600/16212/Off_Your_Rocker.php'
+p79
+sS'Popeye'
+p80
+S'/roms/atari2600/15974/Popeye.php'
+p81
+sS'Carnival'
+p82
+S'/roms/atari2600/16272/Carnival.php'
+p83
+sS'Jungle Fever'
+p84
+S'/roms/atari2600/16260/Jungle_Fever.php'
+p85
+sS'H.E.R.O.'
+p86
+S'/roms/atari2600/16281/H.E.R.O..php'
+p87
+sS'Teddy Apple'
+p88
+S'/roms/atari2600/16022/Teddy_Apple.php'
+p89
+sS'Farmyard Fun'
+p90
+S'/roms/atari2600/16105/Farmyard_Fun.php'
+p91
+sS'Checkers (32-in-1)'
+p92
+S'/roms/atari2600/16232/Checkers_(32-in-1).php'
+p93
+sS'Kung-Fu Superkicks'
+p94
+S'/roms/atari2600/15870/Kung-Fu_Superkicks.php'
+p95
+sS'Bermuda Triangle'
+p96
+S'/roms/atari2600/16065/Bermuda_Triangle.php'
+p97
+sS'Video Olympics'
+p98
+S'/roms/atari2600/16223/Video_Olympics.php'
+p99
+sS'SpaceMaster X-7'
+p100
+S'/roms/atari2600/16082/SpaceMaster_X-7.php'
+p101
+sS'I Robot (Prototype)'
+p102
+S'/roms/atari2600/16319/I_Robot_(Prototype).php'
+p103
+sS'Bowling'
+p104
+S'/roms/atari2600/16317/Bowling.php'
+p105
+sS'Golf'
+p106
+S'/roms/atari2600/16251/Golf.php'
+p107
+sS"Frankenstein's Monster"
+p108
+S"/roms/atari2600/16047/Frankenstein's_Monster.php"
+p109
+sS'Escape from the Mindmaster 4-4'
+p110
+S'/roms/atari2600/16146/Escape_from_the_Mindmaster_4-4.php'
+p111
+sS'I Want My Mommy (Ursinho Esperto)'
+p112
+S'/roms/atari2600/15944/I_Want_My_Mommy_(Ursinho_Esperto).php'
+p113
+sS'Yahtzee'
+p114
+S'/roms/atari2600/16308/Yahtzee.php'
+p115
+sS'Pole Position'
+p116
+S'/roms/atari2600/15868/Pole_Position.php'
+p117
+sS'Megamania'
+p118
+S'/roms/atari2600/16354/Megamania.php'
+p119
+sS'Spy Hunter'
+p120
+S'/roms/atari2600/15774/Spy_Hunter.php'
+p121
+sS"Porky's"
+p122
+S"/roms/atari2600/15982/Porky's.php"
+p123
+sS'Misterious Thief'
+p124
+S'/roms/atari2600/16094/Misterious_Thief.php'
+p125
+sS'Bumper Bash'
+p126
+S'/roms/atari2600/15994/Bumper_Bash.php'
+p127
+sS'Final Approach'
+p128
+S'/roms/atari2600/16125/Final_Approach.php'
+p129
+sS'Taz'
+p130
+S'/roms/atari2600/15964/Taz.php'
+p131
+sS'Math Gran Prix'
+p132
+S'/roms/atari2600/16006/Math_Gran_Prix.php'
+p133
+sS"Rubik's Cube (Prototype)"
+p134
+S"/roms/atari2600/16231/Rubik's_Cube_(Prototype).php"
+p135
+sS'Congo Bongo'
+p136
+S'/roms/atari2600/15754/Congo_Bongo.php'
+p137
+sS"Q-bert's Qubes"
+p138
+S"/roms/atari2600/15898/Q-bert's_Qubes.php"
+p139
+sS'Missile Command'
+p140
+S'/roms/atari2600/16073/Missile_Command.php'
+p141
+sS'Space Shuttle - Journey into Space'
+p142
+S'/roms/atari2600/16265/Space_Shuttle_-_Journey_into_Space.php'
+p143
+sS'Dishaster (AKA Mr. Chin)'
+p144
+S'/roms/atari2600/15718/Dishaster_(AKA_Mr._Chin).php'
+p145
+sS'G.I. Joe - Cobra Strike'
+p146
+S'/roms/atari2600/16181/G.I._Joe_-_Cobra_Strike.php'
+p147
+sS'Towering Inferno'
+p148
+S'/roms/atari2600/15825/Towering_Inferno.php'
+p149
+sS'Tomcat - the F-14 Flight Simulator'
+p150
+S'/roms/atari2600/15954/Tomcat_-_the_F-14_Flight_Simulator.php'
+p151
+sS'Flippern'
+p152
+S'/roms/atari2600/15950/Flippern.php'
+p153
+sS'Pigs in Space starring Miss Piggy'
+p154
+S'/roms/atari2600/15981/Pigs_in_Space_starring_Miss_Piggy.php'
+p155
+sS'Time Warp'
+p156
+S'/roms/atari2600/16118/Time_Warp.php'
+p157
+sS'Video Checkers'
+p158
+S'/roms/atari2600/15834/Video_Checkers.php'
+p159
+sS'Gangster Alley'
+p160
+S'/roms/atari2600/15820/Gangster_Alley.php'
+p161
+sS'Strawberry Shortcake - Musical Match-Ups'
+p162
+S'/roms/atari2600/16338/Strawberry_Shortcake_-_Musical_Match-Ups.php'
+p163
+sS'Super Ferrari'
+p164
+S'/roms/atari2600/15829/Super_Ferrari.php'
+p165
+sS'Subterrenea'
+p166
+S'/roms/atari2600/16299/Subterrenea.php'
+p167
+sS'Super Baseball'
+p168
+S'/roms/atari2600/16262/Super_Baseball.php'
+p169
+sS'Burgertime'
+p170
+S'/roms/atari2600/16196/Burgertime.php'
+p171
+sS'Festival'
+p172
+S'/roms/atari2600/16351/Festival.php'
+p173
+sS'Garfield (Prototype)'
+p174
+S'/roms/atari2600/15758/Garfield_(Prototype).php'
+p175
+sS'Nightmare'
+p176
+S'/roms/atari2600/15980/Nightmare.php'
+p177
+sS'RealSports Boxing'
+p178
+S'/roms/atari2600/16323/RealSports_Boxing.php'
+p179
+sS"Sorcerer's Apprentice"
+p180
+S"/roms/atari2600/15711/Sorcerer's_Apprentice.php"
+p181
+sS'Fantastic Voyage'
+p182
+S'/roms/atari2600/15751/Fantastic_Voyage.php'
+p183
+sS'Riddle of the Sphinx'
+p184
+S'/roms/atari2600/16330/Riddle_of_the_Sphinx.php'
+p185
+sS'Ms. Pac-Man'
+p186
+S'/roms/atari2600/15712/Ms._Pac-Man.php'
+p187
+sS'Stellar Track'
+p188
+S'/roms/atari2600/15747/Stellar_Track.php'
+p189
+sS'Star Ship - Outer Space'
+p190
+S'/roms/atari2600/16300/Star_Ship_-_Outer_Space.php'
+p191
+sS'Marauder'
+p192
+S'/roms/atari2600/15826/Marauder.php'
+p193
+sS'Super Cobra'
+p194
+S'/roms/atari2600/16052/Super_Cobra.php'
+p195
+sS'Wachroboter Jagt Jupy (Hey! Stop!)'
+p196
+S'/roms/atari2600/15881/Wachroboter_Jagt_Jupy_(Hey!_Stop!).php'
+p197
+sS'Brain Games'
+p198
+S'/roms/atari2600/15911/Brain_Games.php'
+p199
+sS'Kung-Fu'
+p200
+S'/roms/atari2600/15787/Kung-Fu.php'
+p201
+sS"McDonald's (Prototype)"
+p202
+S"/roms/atari2600/15890/McDonald's_(Prototype).php"
+p203
+sS'Zoo Fun'
+p204
+S'/roms/atari2600/15732/Zoo_Fun.php'
+p205
+sS'Dragster'
+p206
+S'/roms/atari2600/16163/Dragster.php'
+p207
+sS'Sky Diver'
+p208
+S'/roms/atari2600/15940/Sky_Diver.php'
+p209
+sS'RealSports Baseball'
+p210
+S'/roms/atari2600/15948/RealSports_Baseball.php'
+p211
+sS'TRON - Deadly Discs'
+p212
+S'/roms/atari2600/16038/TRON_-_Deadly_Discs.php'
+p213
+sS'Jumping Jack'
+p214
+S'/roms/atari2600/16098/Jumping_Jack.php'
+p215
+sS'Confrontation'
+p216
+S'/roms/atari2600/15803/Confrontation.php'
+p217
+sS'Schussel, der Polizistenschreck'
+p218
+S'/roms/atari2600/15970/Schussel,_der_Polizistenschreck.php'
+p219
+sS'Bachelorette Party'
+p220
+S'/roms/atari2600/16218/Bachelorette_Party.php'
+p221
+sS'Monstercise (Prototype)'
+p222
+S'/roms/atari2600/16003/Monstercise_(Prototype).php'
+p223
+sS'Slot Racers'
+p224
+S'/roms/atari2600/16209/Slot_Racers.php'
+p225
+sS'Wizard of Wor'
+p226
+S'/roms/atari2600/16244/Wizard_of_Wor.php'
+p227
+sS'Space Raid'
+p228
+S'/roms/atari2600/16343/Space_Raid.php'
+p229
+sS'Spitfire Attack'
+p230
+S'/roms/atari2600/16158/Spitfire_Attack.php'
+p231
+sS'Star Gunner'
+p232
+S'/roms/atari2600/15867/Star_Gunner.php'
+p233
+sS'Motorodeo'
+p234
+S'/roms/atari2600/15814/Motorodeo.php'
+p235
+sS'Earth Attack'
+p236
+S'/roms/atari2600/16357/Earth_Attack.php'
+p237
+sS'Off the Wall'
+p238
+S'/roms/atari2600/16138/Off_the_Wall.php'
+p239
+sS'Frogs and Flies'
+p240
+S'/roms/atari2600/15841/Frogs_and_Flies.php'
+p241
+sS'Star Fox'
+p242
+S'/roms/atari2600/16256/Star_Fox.php'
+p243
+sS'Crazy Climber'
+p244
+S'/roms/atari2600/15761/Crazy_Climber.php'
+p245
+sS'Shark Attack'
+p246
+S'/roms/atari2600/16345/Shark_Attack.php'
+p247
+sS'Strategy X'
+p248
+S'/roms/atari2600/16188/Strategy_X.php'
+p249
+sS'Q-bert'
+p250
+S'/roms/atari2600/16271/Q-bert.php'
+p251
+sS'Save Our Ship'
+p252
+S'/roms/atari2600/15965/Save_Our_Ship.php'
+p253
+sS'Motocross Racer'
+p254
+S'/roms/atari2600/15945/Motocross_Racer.php'
+p255
+sS'Barnstorming'
+p256
+S'/roms/atari2600/15801/Barnstorming.php'
+p257
+sS'Cathouse Blues'
+p258
+S'/roms/atari2600/15952/Cathouse_Blues.php'
+p259
+sS'Dukes of Hazzard (Prototype)'
+p260
+S'/roms/atari2600/15977/Dukes_of_Hazzard_(Prototype).php'
+p261
+sS'Harbor Escape'
+p262
+S'/roms/atari2600/15842/Harbor_Escape.php'
+p263
+sS'Im Schutz der Drachen'
+p264
+S'/roms/atari2600/15963/Im_Schutz_der_Drachen.php'
+p265
+sS"Championship Soccer (AKA Pele's Soccer)"
+p266
+S"/roms/atari2600/15929/Championship_Soccer_(AKA_Pele's_Soccer).php"
+p267
+sS'Combat'
+p268
+S'/roms/atari2600/16070/Combat.php'
+p269
+sS'Lilly Adventure'
+p270
+S'/roms/atari2600/15848/Lilly_Adventure.php'
+p271
+sS'Boing!'
+p272
+S'/roms/atari2600/16290/Boing!.php'
+p273
+sS"Beat 'em and Eat 'em"
+p274
+S"/roms/atari2600/15901/Beat_'em_and_Eat_'em.php"
+p275
+sS'Criminal Pursuit'
+p276
+S'/roms/atari2600/15923/Criminal_Pursuit.php'
+p277
+sS'SuperCharger - Escape from the Mindmaster (4 of 4)'
+p278
+S'/roms/atari2600/16113/SuperCharger_-_Escape_from_the_Mindmaster_(4_of_4).php'
+p279
+sS'Cruise Missile (AKA Radar)'
+p280
+S'/roms/atari2600/16142/Cruise_Missile_(AKA_Radar).php'
+p281
+sS'Cross Force'
+p282
+S'/roms/atari2600/16092/Cross_Force.php'
+p283
+sS'Phantom Panzer 2'
+p284
+S'/roms/atari2600/15816/Phantom_Panzer_2.php'
+p285
+sS"Montezuma's Revenge - Starring Panama Joe"
+p286
+S"/roms/atari2600/16154/Montezuma's_Revenge_-_Starring_Panama_Joe.php"
+p287
+sS'Star Wars - Jedi Arena'
+p288
+S'/roms/atari2600/16026/Star_Wars_-_Jedi_Arena.php'
+p289
+sS'Haunted House'
+p290
+S'/roms/atari2600/16309/Haunted_House.php'
+p291
+sS'Crash Dive'
+p292
+S'/roms/atari2600/15760/Crash_Dive.php'
+p293
+sS'Peter Penguin (Jagt auf Diamanten-Frisco)'
+p294
+S'/roms/atari2600/16261/Peter_Penguin_(Jagt_auf_Diamanten-Frisco).php'
+p295
+sS'Backgammon'
+p296
+S'/roms/atari2600/16252/Backgammon.php'
+p297
+sS'Space Cavern'
+p298
+S'/roms/atari2600/15939/Space_Cavern.php'
+p299
+sS'Fast Eddie'
+p300
+S'/roms/atari2600/16039/Fast_Eddie.php'
+p301
+sS"Yar's Revenge"
+p302
+S"/roms/atari2600/16211/Yar's_Revenge.php"
+p303
+sS'Slot Machine'
+p304
+S'/roms/atari2600/16227/Slot_Machine.php'
+p305
+sS'Tutankham'
+p306
+S'/roms/atari2600/15750/Tutankham.php'
+p307
+sS'Spiderdroid'
+p308
+S'/roms/atari2600/15984/Spiderdroid.php'
+p309
+sS"Big Bird's egg catch"
+p310
+S"/roms/atari2600/15930/Big_Bird's_egg_catch.php"
+p311
+sS'Squeeze Box'
+p312
+S'/roms/atari2600/16190/Squeeze_Box.php'
+p313
+sS'Warlords'
+p314
+S'/roms/atari2600/16016/Warlords.php'
+p315
+sS'Omega Race'
+p316
+S'/roms/atari2600/15908/Omega_Race.php'
+p317
+sS'Tac Scan'
+p318
+S'/roms/atari2600/15775/Tac_Scan.php'
+p319
+sS'Magicard'
+p320
+S'/roms/atari2600/16334/Magicard.php'
+p321
+sS'Pyramid War'
+p322
+S'/roms/atari2600/16114/Pyramid_War.php'
+p323
+sS'Worm War'
+p324
+S'/roms/atari2600/16137/Worm_War.php'
+p325
+sS'Tunnel Runner'
+p326
+S'/roms/atari2600/15746/Tunnel_Runner.php'
+p327
+sS'Forest'
+p328
+S'/roms/atari2600/16090/Forest.php'
+p329
+sS'Cosmic Swarm'
+p330
+S'/roms/atari2600/15946/Cosmic_Swarm.php'
+p331
+sS'Midnight Magic'
+p332
+S'/roms/atari2600/15893/Midnight_Magic.php'
+p333
+sS'Blueprint'
+p334
+S'/roms/atari2600/15975/Blueprint.php'
+p335
+sS"Surfer's Paradise - But Danger Below!"
+p336
+S"/roms/atari2600/15765/Surfer's_Paradise_-_But_Danger_Below!.php"
+p337
+sS'Laser Base (World End)'
+p338
+S'/roms/atari2600/16005/Laser_Base_(World_End).php'
+p339
+sS'Vom Himmel durch die Hoelle'
+p340
+S'/roms/atari2600/16207/Vom_Himmel_durch_die_Hoelle.php'
+p341
+sS'Out of Control'
+p342
+S'/roms/atari2600/15906/Out_of_Control.php'
+p343
+sS'California Games'
+p344
+S'/roms/atari2600/16275/California_Games.php'
+p345
+sS'Labyrinth'
+p346
+S'/roms/atari2600/16226/Labyrinth.php'
+p347
+sS'Boom Bang (AKA Crackpots)'
+p348
+S'/roms/atari2600/15924/Boom_Bang_(AKA_Crackpots).php'
+p349
+sS'Rampage!'
+p350
+S'/roms/atari2600/15802/Rampage!.php'
+p351
+sS'Scuba Diver'
+p352
+S'/roms/atari2600/16044/Scuba_Diver.php'
+p353
+sS'Galaxian'
+p354
+S'/roms/atari2600/16081/Galaxian.php'
+p355
+sS'Boxen'
+p356
+S'/roms/atari2600/16245/Boxen.php'
+p357
+sS'Party Mix'
+p358
+S'/roms/atari2600/15753/Party_Mix.php'
+p359
+sS'Joust'
+p360
+S'/roms/atari2600/15724/Joust.php'
+p361
+sS'Lochjaw'
+p362
+S'/roms/atari2600/16258/Lochjaw.php'
+p363
+sS'Tank Brigade'
+p364
+S'/roms/atari2600/15988/Tank_Brigade.php'
+p365
+sS'Berzerk'
+p366
+S'/roms/atari2600/15886/Berzerk.php'
+p367
+sS'Fire Spinner'
+p368
+S'/roms/atari2600/15896/Fire_Spinner.php'
+p369
+sS'Killer Satellites'
+p370
+S'/roms/atari2600/16314/Killer_Satellites.php'
+p371
+sS'Snoopy'
+p372
+S'/roms/atari2600/16237/Snoopy.php'
+p373
+sS"Surf's Up"
+p374
+S"/roms/atari2600/16278/Surf's_Up.php"
+p375
+sS'Crossbow'
+p376
+S'/roms/atari2600/15727/Crossbow.php'
+p377
+sS'Tape Worm'
+p378
+S'/roms/atari2600/16140/Tape_Worm.php'
+p379
+sS'Fun with Numbers'
+p380
+S'/roms/atari2600/15899/Fun_with_Numbers.php'
+p381
+sS'Titans'
+p382
+S'/roms/atari2600/15936/Titans.php'
+p383
+sS'Street Racer - Speedway 2'
+p384
+S'/roms/atari2600/16304/Street_Racer_-_Speedway_2.php'
+p385
+sS'Space Canyon'
+p386
+S'/roms/atari2600/15808/Space_Canyon.php'
+p387
+sS'Balthazar (aka Babylon 5)'
+p388
+S'/roms/atari2600/15851/Balthazar_(aka_Babylon_5).php'
+p389
+sS'Shooting Arcade (Prototype)'
+p390
+S'/roms/atari2600/15934/Shooting_Arcade_(Prototype).php'
+p391
+sS'Sports Action Pak - End,Hock,Fish,Drag'
+p392
+S'/roms/atari2600/15905/Sports_Action_Pak_-_End,Hock,Fish,Drag.php'
+p393
+sS'Casino'
+p394
+S'/roms/atari2600/16219/Casino.php'
+p395
+sS'Ocean City (Prototype)'
+p396
+S'/roms/atari2600/16229/Ocean_City_(Prototype).php'
+p397
+sS'I.Q. 180'
+p398
+S'/roms/atari2600/16297/I.Q._180.php'
+p399
+sS"Up 'n Down"
+p400
+S"/roms/atari2600/16064/Up_'n_Down.php"
+p401
+sS'Krieg Der Sterne'
+p402
+S'/roms/atari2600/15962/Krieg_Der_Sterne.php'
+p403
+sS'Pro Wrestling'
+p404
+S'/roms/atari2600/15730/Pro_Wrestling.php'
+p405
+sS'Super Football'
+p406
+S'/roms/atari2600/16329/Super_Football.php'
+p407
+sS'Knight on the Town'
+p408
+S'/roms/atari2600/16287/Knight_on_the_Town.php'
+p409
+sS'Kool Aid Man'
+p410
+S'/roms/atari2600/16243/Kool_Aid_Man.php'
+p411
+sS'Laser Gates'
+p412
+S'/roms/atari2600/16013/Laser_Gates.php'
+p413
+sS'Pizza Chef'
+p414
+S'/roms/atari2600/15872/Pizza_Chef.php'
+p415
+sS'Motocross'
+p416
+S'/roms/atari2600/15769/Motocross.php'
+p417
+sS'Time Race 2'
+p418
+S'/roms/atari2600/15922/Time_Race_2.php'
+p419
+sS'International Soccer'
+p420
+S'/roms/atari2600/15745/International_Soccer.php'
+p421
+sS'Cubicolor'
+p422
+S'/roms/atari2600/15817/Cubicolor.php'
+p423
+sS'Fire Birds (AKA Scorpion)'
+p424
+S'/roms/atari2600/15969/Fire_Birds_(AKA_Scorpion).php'
+p425
+sS'Obelix'
+p426
+S'/roms/atari2600/15928/Obelix.php'
+p427
+sS'Sweat! - the Decathalon Game (Prototype)'
+p428
+S'/roms/atari2600/16214/Sweat!_-_the_Decathalon_Game_(Prototype).php'
+p429
+sS'Xenophobe'
+p430
+S'/roms/atari2600/16108/Xenophobe.php'
+p431
+sS'Im Reich der Spinne'
+p432
+S'/roms/atari2600/16337/Im_Reich_der_Spinne.php'
+p433
+sS'Sea Monster'
+p434
+S'/roms/atari2600/16312/Sea_Monster.php'
+p435
+sS'Star Wars - Death Star Battle'
+p436
+S'/roms/atari2600/15973/Star_Wars_-_Death_Star_Battle.php'
+p437
+sS'Sancho - Words'
+p438
+S'/roms/atari2600/15854/Sancho_-_Words.php'
+p439
+sS'Space War'
+p440
+S'/roms/atari2600/16024/Space_War.php'
+p441
+sS'Gopher'
+p442
+S'/roms/atari2600/15723/Gopher.php'
+p443
+sS'Krull'
+p444
+S'/roms/atari2600/16043/Krull.php'
+p445
+sS'Tanks But No Tanks'
+p446
+S'/roms/atari2600/16175/Tanks_But_No_Tanks.php'
+p447
+sS'RealSports Tennis'
+p448
+S'/roms/atari2600/16183/RealSports_Tennis.php'
+p449
+sS'Bobby is Going Home'
+p450
+S'/roms/atari2600/16056/Bobby_is_Going_Home.php'
+p451
+sS'Skiing'
+p452
+S'/roms/atari2600/15721/Skiing.php'
+p453
+sS'Moto Laser'
+p454
+S'/roms/atari2600/16340/Moto_Laser.php'
+p455
+sS'Defender'
+p456
+S'/roms/atari2600/16097/Defender.php'
+p457
+sS'Super Box'
+p458
+S'/roms/atari2600/16160/Super_Box.php'
+p459
+sS'Hili Ball'
+p460
+S'/roms/atari2600/16225/Hili_Ball.php'
+p461
+sS'Survival Island 3-3'
+p462
+S'/roms/atari2600/15876/Survival_Island_3-3.php'
+p463
+sS'Robot Fight (Space Robot)'
+p464
+S'/roms/atari2600/15795/Robot_Fight_(Space_Robot).php'
+p465
+sS'Basketball'
+p466
+S'/roms/atari2600/15850/Basketball.php'
+p467
+sS'Save Mary (Prototype)'
+p468
+S'/roms/atari2600/16087/Save_Mary_(Prototype).php'
+p469
+sS'Desert Falcon'
+p470
+S'/roms/atari2600/16028/Desert_Falcon.php'
+p471
+sS'Space Tunnel'
+p472
+S'/roms/atari2600/15921/Space_Tunnel.php'
+p473
+sS'Star Wars - the Empire Strikes Back'
+p474
+S'/roms/atari2600/15935/Star_Wars_-_the_Empire_Strikes_Back.php'
+p475
+sS'Tennis'
+p476
+S'/roms/atari2600/16147/Tennis.php'
+p477
+sS'Sssnake'
+p478
+S'/roms/atari2600/16063/Sssnake.php'
+p479
+sS'Ski Run'
+p480
+S'/roms/atari2600/16292/Ski_Run.php'
+p481
+sS'Demon Attack'
+p482
+S'/roms/atari2600/15738/Demon_Attack.php'
+p483
+sS'Base Attack (AKA Z-Tack,Laser-Loop,Sky Scrapper)'
+p484
+S'/roms/atari2600/16311/Base_Attack_(AKA_Z-Tack,Laser-Loop,Sky_Scrapper).php'
+p485
+sS'E.T. the Extra-Terrestrial'
+p486
+S'/roms/atari2600/15846/E.T._the_Extra-Terrestrial.php'
+p487
+sS'Monster aus dem All'
+p488
+S'/roms/atari2600/15832/Monster_aus_dem_All.php'
+p489
+sS'Demolition Herby'
+p490
+S'/roms/atari2600/15968/Demolition_Herby.php'
+p491
+sS'Egg o Mania'
+p492
+S'/roms/atari2600/16306/Egg_o_Mania.php'
+p493
+sS'Octopus (Name that Game)'
+p494
+S'/roms/atari2600/15763/Octopus_(Name_that_Game).php'
+p495
+sS'Schiessbude'
+p496
+S'/roms/atari2600/15821/Schiessbude.php'
+p497
+sS'Robin Hood'
+p498
+S'/roms/atari2600/15878/Robin_Hood.php'
+p499
+sS'Pete Rose Baseball'
+p500
+S'/roms/atari2600/16053/Pete_Rose_Baseball.php'
+p501
+sS'Music Machine'
+p502
+S'/roms/atari2600/16096/Music_Machine.php'
+p503
+sS'Sky Skipper'
+p504
+S'/roms/atari2600/15717/Sky_Skipper.php'
+p505
+sS'Keystone Kapers'
+p506
+S'/roms/atari2600/16077/Keystone_Kapers.php'
+p507
+sS'Glib'
+p508
+S'/roms/atari2600/16359/Glib.php'
+p509
+sS'Plaque Attack'
+p510
+S'/roms/atari2600/16110/Plaque_Attack.php'
+p511
+sS'Breakdown (AKA Capture)'
+p512
+S'/roms/atari2600/16029/Breakdown_(AKA_Capture).php'
+p513
+sS'BMX Air Master'
+p514
+S'/roms/atari2600/16033/BMX_Air_Master.php'
+p515
+sS'King Kong'
+p516
+S'/roms/atari2600/15927/King_Kong.php'
+p517
+sS'Phoenix'
+p518
+S'/roms/atari2600/16169/Phoenix.php'
+p519
+sS'Name this Game (Octopus)'
+p520
+S'/roms/atari2600/15845/Name_this_Game_(Octopus).php'
+p521
+sS'Sinistar'
+p522
+S'/roms/atari2600/15806/Sinistar.php'
+p523
+sS'Earth Dies Screaming'
+p524
+S'/roms/atari2600/16318/Earth_Dies_Screaming.php'
+p525
+sS'Peek-a-Boo (Prototype)'
+p526
+S'/roms/atari2600/15783/Peek-a-Boo_(Prototype).php'
+p527
+sS'Mr. Do!'
+p528
+S'/roms/atari2600/15987/Mr._Do!.php'
+p529
+sS'Maze (Slot Racers)'
+p530
+S'/roms/atari2600/15990/Maze_(Slot_Racers).php'
+p531
+sS'Super Challenge Baseball'
+p532
+S'/roms/atari2600/16294/Super_Challenge_Baseball.php'
+p533
+sS'Missile Control (Raketen-Angriff)'
+p534
+S'/roms/atari2600/15943/Missile_Control_(Raketen-Angriff).php'
+p535
+sS'Bionic Breakthrough (Prototype)'
+p536
+S'/roms/atari2600/16339/Bionic_Breakthrough_(Prototype).php'
+p537
+sS'Gorf'
+p538
+S'/roms/atari2600/15733/Gorf.php'
+p539
+sS'Word Zapper'
+p540
+S'/roms/atari2600/16185/Word_Zapper.php'
+p541
+sS'Universal Chaos'
+p542
+S'/roms/atari2600/15971/Universal_Chaos.php'
+p543
+sS'Communist Mutants from Space'
+p544
+S'/roms/atari2600/16021/Communist_Mutants_from_Space.php'
+p545
+sS'Encounter at L5'
+p546
+S'/roms/atari2600/16104/Encounter_at_L5.php'
+p547
+sS'Chopper Command'
+p548
+S'/roms/atari2600/15956/Chopper_Command.php'
+p549
+sS'Infiltrate'
+p550
+S'/roms/atari2600/15883/Infiltrate.php'
+p551
+sS'Pompeii (Prototype)'
+p552
+S'/roms/atari2600/16174/Pompeii_(Prototype).php'
+p553
+sS'Elk Attack'
+p554
+S'/roms/atari2600/16191/Elk_Attack.php'
+p555
+sS'Springer'
+p556
+S'/roms/atari2600/15777/Springer.php'
+p557
+sS'Kabobber (Prototype)'
+p558
+S'/roms/atari2600/15737/Kabobber_(Prototype).php'
+p559
+sS'Task Force'
+p560
+S'/roms/atari2600/15843/Task_Force.php'
+p561
+sS'Millipede'
+p562
+S'/roms/atari2600/16356/Millipede.php'
+p563
+sS'Raft Rider'
+p564
+S'/roms/atari2600/16194/Raft_Rider.php'
+p565
+sS'Racquetball'
+p566
+S'/roms/atari2600/15742/Racquetball.php'
+p567
+sS'River Raid 2'
+p568
+S'/roms/atari2600/16283/River_Raid_2.php'
+p569
+sS'River Raid 3'
+p570
+S'/roms/atari2600/16238/River_Raid_3.php'
+p571
+sS'Pepsi Invaders (Prototype)'
+p572
+S'/roms/atari2600/16008/Pepsi_Invaders_(Prototype).php'
+p573
+sS'Planet of the Apes (Prototype)'
+p574
+S'/roms/atari2600/16124/Planet_of_the_Apes_(Prototype).php'
+p575
+sS'Missile War'
+p576
+S'/roms/atari2600/15966/Missile_War.php'
+p577
+sS'Freeway'
+p578
+S'/roms/atari2600/15892/Freeway.php'
+p579
+sS'Pitfall 2 - the Lost Caverns'
+p580
+S'/roms/atari2600/15818/Pitfall_2_-_the_Lost_Caverns.php'
+p581
+sS'Raiders of the Lost Ark'
+p582
+S'/roms/atari2600/16079/Raiders_of_the_Lost_Ark.php'
+p583
+sS'Human Cannonball (Cannon Man)'
+p584
+S'/roms/atari2600/15933/Human_Cannonball_(Cannon_Man).php'
+p585
+sS'Xevious'
+p586
+S'/roms/atari2600/16255/Xevious.php'
+p587
+sS'Gyruss'
+p588
+S'/roms/atari2600/15847/Gyruss.php'
+p589
+sS'Year 1999'
+p590
+S'/roms/atari2600/15953/Year_1999.php'
+p591
+sS"Bump 'N' Jump"
+p592
+S"/roms/atari2600/16149/Bump_'N'_Jump.php"
+p593
+sS'Combat 2'
+p594
+S'/roms/atari2600/16068/Combat_2.php'
+p595
+sS'Thwocker (Prototype)'
+p596
+S'/roms/atari2600/15860/Thwocker_(Prototype).php'
+p597
+sS'Tie-Fighters'
+p598
+S'/roms/atari2600/16200/Tie-Fighters.php'
+p599
+sS'Sub Rescue'
+p600
+S'/roms/atari2600/15780/Sub_Rescue.php'
+p601
+sS'Solaris'
+p602
+S'/roms/atari2600/15840/Solaris.php'
+p603
+sS'Steeplechase'
+p604
+S'/roms/atari2600/16018/Steeplechase.php'
+p605
+sS'Hole Hunter'
+p606
+S'/roms/atari2600/15831/Hole_Hunter.php'
+p607
+sS'Kung-Fu Master'
+p608
+S'/roms/atari2600/15895/Kung-Fu_Master.php'
+p609
+sS'Pooyan'
+p610
+S'/roms/atari2600/16213/Pooyan.php'
+p611
+sS"Piece o' Cake"
+p612
+S"/roms/atari2600/15786/Piece_o'_Cake.php"
+p613
+sS'Exocet (AKA Space Eagle)'
+p614
+S'/roms/atari2600/16332/Exocet_(AKA_Space_Eagle).php'
+p615
+sS'Puzzled World'
+p616
+S'/roms/atari2600/16344/Puzzled_World.php'
+p617
+sS'Breakout - Breakaway 4'
+p618
+S'/roms/atari2600/15728/Breakout_-_Breakaway_4.php'
+p619
+sS"Miss Piggy's Wedding (Prototype)"
+p620
+S"/roms/atari2600/15875/Miss_Piggy's_Wedding_(Prototype).php"
+p621
+sS'Commando Raid'
+p622
+S'/roms/atari2600/16249/Commando_Raid.php'
+p623
+sS"Smurfs - Rescue in Gargamel's Castle"
+p624
+S"/roms/atari2600/15877/Smurfs_-_Rescue_in_Gargamel's_Castle.php"
+p625
+sS'Spy vs. Spy'
+p626
+S'/roms/atari2600/15748/Spy_vs._Spy.php'
+p627
+sS'Pressure Cooker'
+p628
+S'/roms/atari2600/16241/Pressure_Cooker.php'
+p629
+sS'X-Man'
+p630
+S'/roms/atari2600/16066/X-Man.php'
+p631
+sS'Private Eye'
+p632
+S'/roms/atari2600/16228/Private_Eye.php'
+p633
+sS'Ice Hockey'
+p634
+S'/roms/atari2600/16216/Ice_Hockey.php'
+p635
+sS'Night Stalker'
+p636
+S'/roms/atari2600/16072/Night_Stalker.php'
+p637
+sS'Telepathy (Prototype)'
+p638
+S'/roms/atari2600/16152/Telepathy_(Prototype).php'
+p639
+sS'Boxing'
+p640
+S'/roms/atari2600/15788/Boxing.php'
+p641
+sS'Nuts'
+p642
+S'/roms/atari2600/16331/Nuts.php'
+p643
+sS'Fathom'
+p644
+S'/roms/atari2600/15811/Fathom.php'
+p645
+sS'Ground Zero'
+p646
+S'/roms/atari2600/16202/Ground_Zero.php'
+p647
+sS'Challenge of...NEXAR'
+p648
+S'/roms/atari2600/15764/Challenge_of...NEXAR.php'
+p649
+sS'Sea Hawk (Overkill-RVision)'
+p650
+S'/roms/atari2600/16172/Sea_Hawk_(Overkill-RVision).php'
+p651
+sS'Landungskommando'
+p652
+S'/roms/atari2600/16041/Landungskommando.php'
+p653
+sS"Col 'N"
+p654
+S"/roms/atari2600/15998/Col_'N.php"
+p655
+sS'Coconuts'
+p656
+S'/roms/atari2600/15716/Coconuts.php'
+p657
+sS"Dodge 'em"
+p658
+S"/roms/atari2600/15809/Dodge_'em.php"
+p659
+sS'Duck Shoot'
+p660
+S'/roms/atari2600/15920/Duck_Shoot.php'
+p661
+sS'Video Chess'
+p662
+S'/roms/atari2600/16086/Video_Chess.php'
+p663
+sS'Sabotage'
+p664
+S'/roms/atari2600/15986/Sabotage.php'
+p665
+sS'Schnapp die Apfeldiebe (Catch Time)'
+p666
+S'/roms/atari2600/16201/Schnapp_die_Apfeldiebe_(Catch_Time).php'
+p667
+sS'Billard'
+p668
+S'/roms/atari2600/16156/Billard.php'
+p669
+sS'Spider Maze'
+p670
+S'/roms/atari2600/16266/Spider_Maze.php'
+p671
+sS'Zaxxon'
+p672
+S'/roms/atari2600/15852/Zaxxon.php'
+p673
+sS'Sweat! - the Decathlon Game 2-2'
+p674
+S'/roms/atari2600/16193/Sweat!_-_the_Decathlon_Game_2-2.php'
+p675
+sS'Wabbit'
+p676
+S'/roms/atari2600/16025/Wabbit.php'
+p677
+sS'Kangaroo'
+p678
+S'/roms/atari2600/16269/Kangaroo.php'
+p679
+sS'Football'
+p680
+S'/roms/atari2600/16102/Football.php'
+p681
+sS'Great Escape'
+p682
+S'/roms/atari2600/15824/Great_Escape.php'
+p683
+sS'Sword of Saros'
+p684
+S'/roms/atari2600/16141/Sword_of_Saros.php'
+p685
+sS'Frogger 2 - Threedeep!'
+p686
+S'/roms/atari2600/15897/Frogger_2_-_Threedeep!.php'
+p687
+sS'Jungle Hunt'
+p688
+S'/roms/atari2600/16289/Jungle_Hunt.php'
+p689
+sS'Rescue Terra 1'
+p690
+S'/roms/atari2600/16074/Rescue_Terra_1.php'
+p691
+sS'Crackpots'
+p692
+S'/roms/atari2600/16257/Crackpots.php'
+p693
+sS'Vault Assault'
+p694
+S'/roms/atari2600/15726/Vault_Assault.php'
+p695
+sS'Blackjack'
+p696
+S'/roms/atari2600/16144/Blackjack.php'
+p697
+sS'Mr. T (Fast Eddie)'
+p698
+S'/roms/atari2600/16346/Mr._T_(Fast_Eddie).php'
+p699
+sS"Skate Boardin'"
+p700
+S"/roms/atari2600/15942/Skate_Boardin'.php"
+p701
+sS"Pharaoh's Curse"
+p702
+S"/roms/atari2600/16234/Pharaoh's_Curse.php"
+p703
+sS'Revenge of the Beefsteak Tomatoes'
+p704
+S'/roms/atari2600/15836/Revenge_of_the_Beefsteak_Tomatoes.php'
+p705
+sS'Double Dragon'
+p706
+S'/roms/atari2600/15858/Double_Dragon.php'
+p707
+sS'Polaris'
+p708
+S'/roms/atari2600/15938/Polaris.php'
+p709
+sS'Stronghold'
+p710
+S'/roms/atari2600/16049/Stronghold.php'
+p711
+sS'Raumpatrouille'
+p712
+S'/roms/atari2600/15844/Raumpatrouille.php'
+p713
+sS'Oink!'
+p714
+S'/roms/atari2600/16103/Oink!.php'
+p715
+sS'Felix Return'
+p716
+S'/roms/atari2600/15873/Felix_Return.php'
+p717
+sS'Fox and Goat'
+p718
+S'/roms/atari2600/16085/Fox_and_Goat.php'
+p719
+sS'Fire Fly'
+p720
+S'/roms/atari2600/16224/Fire_Fly.php'
+p721
+sS'Super VoleyBall'
+p722
+S'/roms/atari2600/15961/Super_VoleyBall.php'
+p723
+sS'Miner 2049er vol. 2'
+p724
+S'/roms/atari2600/15838/Miner_2049er_vol._2.php'
+p725
+sS'Challenge'
+p726
+S'/roms/atari2600/16130/Challenge.php'
+p727
+sS'Gravitar'
+p728
+S'/roms/atari2600/16313/Gravitar.php'
+p729
+sS'Indy 500'
+p730
+S'/roms/atari2600/15937/Indy_500.php'
+p731
+sS'Space Jockey'
+p732
+S'/roms/atari2600/15887/Space_Jockey.php'
+p733
+sS'Wing War'
+p734
+S'/roms/atari2600/16248/Wing_War.php'
+p735
+sS'Hunt and Score'
+p736
+S'/roms/atari2600/15784/Hunt_and_Score.php'
+p737
+sS'Centipede'
+p738
+S'/roms/atari2600/16253/Centipede.php'
+p739
+sS'3-D Tic-Tac-Toe'
+p740
+S'/roms/atari2600/16204/3-D_Tic-Tac-Toe.php'
+p741
+sS'Crypts of Chaos'
+p742
+S'/roms/atari2600/15833/Crypts_of_Chaos.php'
+p743
+sS'Super Breakout'
+p744
+S'/roms/atari2600/15947/Super_Breakout.php'
+p745
+sS'Meteor Smasher'
+p746
+S'/roms/atari2600/15855/Meteor_Smasher.php'
+p747
+sS'Cracked'
+p748
+S'/roms/atari2600/15798/Cracked.php'
+p749
+sS'Fireball'
+p750
+S'/roms/atari2600/16166/Fireball.php'
+p751
+sS'Star Trek - Strategic Operations Simulator'
+p752
+S'/roms/atari2600/16327/Star_Trek_-_Strategic_Operations_Simulator.php'
+p753
+sS"Mr. Do!'s Castle"
+p754
+S"/roms/atari2600/16071/Mr._Do!'s_Castle.php"
+p755
+sS'Spacechase'
+p756
+S'/roms/atari2600/15794/Spacechase.php'
+p757
+sS'Ocean City Defender'
+p758
+S'/roms/atari2600/15772/Ocean_City_Defender.php'
+p759
+sS"Grover's Music Maker (Prototype)"
+p760
+S"/roms/atari2600/16015/Grover's_Music_Maker_(Prototype).php"
+p761
+sS'Cosmic Commuter'
+p762
+S'/roms/atari2600/15864/Cosmic_Commuter.php'
+p763
+sS'Kamikaze Saucers'
+p764
+S'/roms/atari2600/16246/Kamikaze_Saucers.php'
+p765
+sS"Mangia'"
+p766
+S"/roms/atari2600/15729/Mangia'.php"
+p767
+sS'Polo (Prototype)'
+p768
+S'/roms/atari2600/16208/Polo_(Prototype).php'
+p769
+sS"Dumbo's Flying Circus (Prototype)"
+p770
+S"/roms/atari2600/16197/Dumbo's_Flying_Circus_(Prototype).php"
+p771
+sS'Parachute'
+p772
+S'/roms/atari2600/15925/Parachute.php'
+p773
+sS'Chuck Norris Superkicks'
+p774
+S'/roms/atari2600/15978/Chuck_Norris_Superkicks.php'
+p775
+sS'Dragonstomper'
+p776
+S'/roms/atari2600/16215/Dragonstomper.php'
+p777
+sS'No Escape!'
+p778
+S'/roms/atari2600/15771/No_Escape!.php'
+p779
+sS'Home Run'
+p780
+S'/roms/atari2600/15869/Home_Run.php'
+p781
+sS'King Arthur'
+p782
+S'/roms/atari2600/15752/King_Arthur.php'
+p783
+sS'Time Race'
+p784
+S'/roms/atari2600/16274/Time_Race.php'
+p785
+sS'Tempest (Prototype)'
+p786
+S'/roms/atari2600/16293/Tempest_(Prototype).php'
+p787
+sS'Winter Games'
+p788
+S'/roms/atari2600/16036/Winter_Games.php'
+p789
+sS'Wizard (Prototype)'
+p790
+S'/roms/atari2600/15902/Wizard_(Prototype).php'
+p791
+sS'Glacier Patrol'
+p792
+S'/roms/atari2600/15983/Glacier_Patrol.php'
+p793
+sS'Lost Luggage'
+p794
+S'/roms/atari2600/15805/Lost_Luggage.php'
+p795
+sS'Fire Fighter'
+p796
+S'/roms/atari2600/16121/Fire_Fighter.php'
+p797
+sS'Road Runner'
+p798
+S'/roms/atari2600/15778/Road_Runner.php'
+p799
+sS'Stunt Cycle (Prototype)'
+p800
+S'/roms/atari2600/15979/Stunt_Cycle_(Prototype).php'
+p801
+sS'Planet Patrol'
+p802
+S'/roms/atari2600/15955/Planet_Patrol.php'
+p803
+sS'Mouse Trap'
+p804
+S'/roms/atari2600/15756/Mouse_Trap.php'
+p805
+sS'Cosmic Creeps'
+p806
+S'/roms/atari2600/16162/Cosmic_Creeps.php'
+p807
+sS'Mines of Minos'
+p808
+S'/roms/atari2600/16059/Mines_of_Minos.php'
+p809
+sS'Bachelor Party'
+p810
+S'/roms/atari2600/16120/Bachelor_Party.php'
+p811
+sS'Tax Avoiders'
+p812
+S'/roms/atari2600/16170/Tax_Avoiders.php'
+p813
+sS'Double Dunk'
+p814
+S'/roms/atari2600/15949/Double_Dunk.php'
+p815
+sS'Beany Bopper'
+p816
+S'/roms/atari2600/16037/Beany_Bopper.php'
+p817
+sS'Master Builder'
+p818
+S'/roms/atari2600/15862/Master_Builder.php'
+p819
+sS'Bermuda'
+p820
+S'/roms/atari2600/15791/Bermuda.php'
+p821
+sS'Time Machine (Great Escape, Asteroid Belt)'
+p822
+S'/roms/atari2600/16032/Time_Machine_(Great_Escape,_Asteroid_Belt).php'
+p823
+sS'Night Driver'
+p824
+S'/roms/atari2600/15885/Night_Driver.php'
+p825
+sS'Squoosh (Prototype)'
+p826
+S'/roms/atari2600/16048/Squoosh_(Prototype).php'
+p827
+sS'Mr. Postman'
+p828
+S'/roms/atari2600/16341/Mr._Postman.php'
+p829
+sS'Escape from the Mindmaster'
+p830
+S'/roms/atari2600/16069/Escape_from_the_Mindmaster.php'
+p831
+sS'Frogger'
+p832
+S'/roms/atari2600/16119/Frogger.php'
+p833
+sS"Tom's Eierjagd"
+p834
+S"/roms/atari2600/16235/Tom's_Eierjagd.php"
+p835
+sS'Computer Chess (Prototype)'
+p836
+S'/roms/atari2600/16342/Computer_Chess_(Prototype).php'
+p837
+sS'Burning Desire'
+p838
+S'/roms/atari2600/16112/Burning_Desire.php'
+p839
+sS'Spider Kong ( Karate)'
+p840
+S'/roms/atari2600/16279/Spider_Kong_(_Karate).php'
+p841
+sS'Miner 2049er'
+p842
+S'/roms/atari2600/15749/Miner_2049er.php'
+p843
+sS'Marine Wars'
+p844
+S'/roms/atari2600/16222/Marine_Wars.php'
+p845
+sS'Chase the Chuckwagon'
+p846
+S'/roms/atari2600/15957/Chase_the_Chuckwagon.php'
+p847
+sS'Fishing Derby (32-in-1)'
+p848
+S'/roms/atari2600/16017/Fishing_Derby_(32-in-1).php'
+p849
+sS'Video Reflex'
+p850
+S'/roms/atari2600/16335/Video_Reflex.php'
+p851
+sS'Cosmic Town'
+p852
+S'/roms/atari2600/15807/Cosmic_Town.php'
+p853
+sS'Ikari Warriors'
+p854
+S'/roms/atari2600/16352/Ikari_Warriors.php'
+p855
+sS'Donkey Kong'
+p856
+S'/roms/atari2600/15853/Donkey_Kong.php'
+p857
+sS'Ghostbusters'
+p858
+S'/roms/atari2600/15839/Ghostbusters.php'
+p859
+sS'Sub Scan'
+p860
+S'/roms/atari2600/16176/Sub_Scan.php'
+p861
+sS'Elevator Action (Prototype)'
+p862
+S'/roms/atari2600/16206/Elevator_Action_(Prototype).php'
+p863
+sS'Lady in Wading'
+p864
+S'/roms/atari2600/16303/Lady_in_Wading.php'
+p865
+sS'River Patrol'
+p866
+S'/roms/atari2600/16042/River_Patrol.php'
+p867
+sS'Pressure Gauge 2 (Beta)'
+p868
+S'/roms/atari2600/16285/Pressure_Gauge_2_(Beta).php'
+p869
+sS'CompuMate'
+p870
+S'/roms/atari2600/16161/CompuMate.php'
+p871
+sS'Space Robot (Robot Fight)'
+p872
+S'/roms/atari2600/15762/Space_Robot_(Robot_Fight).php'
+p873
+sS'Smurfs save the Day'
+p874
+S'/roms/atari2600/16198/Smurfs_save_the_Day.php'
+p875
+sS'Saboteur (Prototype)'
+p876
+S'/roms/atari2600/16054/Saboteur_(Prototype).php'
+p877
+sS'Teller-Jonglieren! (Tanzende Teller)'
+p878
+S'/roms/atari2600/16239/Teller-Jonglieren!_(Tanzende_Teller).php'
+p879
+sS'Bank Heist'
+p880
+S'/roms/atari2600/15710/Bank_Heist.php'
+p881
+sS"Roc n' Rope"
+p882
+S"/roms/atari2600/16062/Roc_n'_Rope.php"
+p883
+sS'Sea Hunt'
+p884
+S'/roms/atari2600/16316/Sea_Hunt.php'
+p885
+sS'Pressure Gauge'
+p886
+S'/roms/atari2600/15785/Pressure_Gauge.php'
+p887
+sS'Demons to Diamonds'
+p888
+S'/roms/atari2600/16324/Demons_to_Diamonds.php'
+p889
+sS'Sentinel'
+p890
+S'/roms/atari2600/15719/Sentinel.php'
+p891
+sS'Super Circus'
+p892
+S'/roms/atari2600/16132/Super_Circus.php'
+p893
+sS"Eli's Ladder"
+p894
+S"/roms/atari2600/15740/Eli's_Ladder.php"
+p895
+sS'Moonsweeper'
+p896
+S'/roms/atari2600/15815/Moonsweeper.php'
+p897
+sS'Starmaster'
+p898
+S'/roms/atari2600/16127/Starmaster.php'
+p899
+sS'Quest for Quintana Roo'
+p900
+S'/roms/atari2600/15741/Quest_for_Quintana_Roo.php'
+p901
+sS'London Blitz'
+p902
+S'/roms/atari2600/16106/London_Blitz.php'
+p903
+sS'Flash Gordon'
+p904
+S'/roms/atari2600/16350/Flash_Gordon.php'
+p905
+sS"Donald Duck's Speedboat (Prototype)"
+p906
+S"/roms/atari2600/15828/Donald_Duck's_Speedboat_(Prototype).php"
+p907
+sS'Bridge'
+p908
+S'/roms/atari2600/15735/Bridge.php'
+p909
+sS'Defender 2'
+p910
+S'/roms/atari2600/15768/Defender_2.php'
+p911
+sS'Wall Defender'
+p912
+S'/roms/atari2600/16180/Wall_Defender.php'
+p913
+sS'Pac-Man'
+p914
+S'/roms/atari2600/16080/Pac-Man.php'
+p915
+sS"Oscar's Trash Race"
+p916
+S"/roms/atari2600/16014/Oscar's_Trash_Race.php"
+p917
+sS'Miniature Golf'
+p918
+S'/roms/atari2600/16089/Miniature_Golf.php'
+p919
+sS'Picnic'
+p920
+S'/roms/atari2600/16347/Picnic.php'
+p921
+sS'Laser Blast'
+p922
+S'/roms/atari2600/15835/Laser_Blast.php'
+p923
+sS'Mission Survive'
+p924
+S'/roms/atari2600/16288/Mission_Survive.php'
+p925
+sS'Mein Weg'
+p926
+S'/roms/atari2600/15713/Mein_Weg.php'
+p927
+sS'Robot Tank'
+p928
+S'/roms/atari2600/16301/Robot_Tank.php'
+p929
+sS'Time Pilot'
+p930
+S'/roms/atari2600/15992/Time_Pilot.php'
+p931
+sS'Super Kung-Fu'
+p932
+S'/roms/atari2600/16349/Super_Kung-Fu.php'
+p933
+sS'Dig Dug'
+p934
+S'/roms/atari2600/16192/Dig_Dug.php'
+p935
+sS'Pins Revenge'
+p936
+S'/roms/atari2600/16133/Pins_Revenge.php'
+p937
+sS'Journey - Escape'
+p938
+S'/roms/atari2600/16187/Journey_-_Escape.php'
+p939
+sS'Reactor'
+p940
+S'/roms/atari2600/16291/Reactor.php'
+p941
+sS'Tank Plus'
+p942
+S'/roms/atari2600/15951/Tank_Plus.php'
+p943
+sS'Stopp die Gangster (Mafia)'
+p944
+S'/roms/atari2600/16165/Stopp_die_Gangster_(Mafia).php'
+p945
+sS'Holey Moley (Prototype)'
+p946
+S'/roms/atari2600/15793/Holey_Moley_(Prototype).php'
+p947
+sS'Dschungle Boy (AKA Tom Boy)'
+p948
+S'/roms/atari2600/16088/Dschungle_Boy_(AKA_Tom_Boy).php'
+p949
+sS'Texas Chainsaw Massacre'
+p950
+S'/roms/atari2600/15837/Texas_Chainsaw_Massacre.php'
+p951
+sS'Schnecke und Eichhoernchen'
+p952
+S'/roms/atari2600/16078/Schnecke_und_Eichhoernchen.php'
+p953
+sS'Radar Lock'
+p954
+S'/roms/atari2600/16012/Radar_Lock.php'
+p955
+sS'Checkers'
+p956
+S'/roms/atari2600/15993/Checkers.php'
+p957
+sS'Battlezone'
+p958
+S'/roms/atari2600/15932/Battlezone.php'
+p959
+sS'Front Line'
+p960
+S'/roms/atari2600/16264/Front_Line.php'
+p961
+sS'Jawbreaker'
+p962
+S'/roms/atari2600/16128/Jawbreaker.php'
+p963
+sS'Video Jogger'
+p964
+S'/roms/atari2600/16307/Video_Jogger.php'
+p965
+sS'Poker Plus (Casino)'
+p966
+S'/roms/atari2600/15799/Poker_Plus_(Casino).php'
+p967
+sS"Lock 'n' Chase"
+p968
+S"/roms/atari2600/16322/Lock_'n'_Chase.php"
+p969
+sS'Sesam, Oeffne Dich (Open Sesame)'
+p970
+S'/roms/atari2600/15900/Sesam,_Oeffne_Dich_(Open_Sesame).php'
+p971
+sS'Secret Quest'
+p972
+S'/roms/atari2600/15736/Secret_Quest.php'
+p973
+sS'Surround'
+p974
+S'/roms/atari2600/16267/Surround.php'
+p975
+sS'Top Gun (Air Patrol)'
+p976
+S'/roms/atari2600/15865/Top_Gun_(Air_Patrol).php'
+p977
+sS'General Retreat'
+p978
+S'/roms/atari2600/16236/General_Retreat.php'
+p979
+sS'Sky Jinks'
+p980
+S'/roms/atari2600/16155/Sky_Jinks.php'
+p981
+sS"Spike's Peak"
+p982
+S"/roms/atari2600/16276/Spike's_Peak.php"
+p983
+sS'Z-Tack'
+p984
+S'/roms/atari2600/16126/Z-Tack.php'
+p985
+sS'Trick Shot'
+p986
+S'/roms/atari2600/15731/Trick_Shot.php'
+p987
+sS'Secret Agent (Prototype)'
+p988
+S'/roms/atari2600/15790/Secret_Agent_(Prototype).php'
+p989
+sS'Buck Rogers - Planet of Zoom'
+p990
+S'/roms/atari2600/16002/Buck_Rogers_-_Planet_of_Zoom.php'
+p991
+sS'SwordQuest - Earthworld'
+p992
+S'/roms/atari2600/16091/SwordQuest_-_Earthworld.php'
+p993
+sS'Black Hole'
+p994
+S'/roms/atari2600/15773/Black_Hole.php'
+p995
+sS'Cosmic Ark'
+p996
+S'/roms/atari2600/15884/Cosmic_Ark.php'
+p997
+sS'Guardian'
+p998
+S'/roms/atari2600/16286/Guardian.php'
+p999
+sS'Steeple Chase'
+p1000
+S'/roms/atari2600/16148/Steeple_Chase.php'
+p1001
+sS'Weltraum Tunnel'
+p1002
+S'/roms/atari2600/15796/Weltraum_Tunnel.php'
+p1003
+sS'Klax'
+p1004
+S'/roms/atari2600/15880/Klax.php'
+p1005
+sS'Dark Chambers'
+p1006
+S'/roms/atari2600/15792/Dark_Chambers.php'
+p1007
+sS'Hot Wave'
+p1008
+S'/roms/atari2600/16020/Hot_Wave.php'
+p1009
+sS'Philly Flasher'
+p1010
+S'/roms/atari2600/16353/Philly_Flasher.php'
+p1011
+sS'Mission 3000 A.D.'
+p1012
+S'/roms/atari2600/15856/Mission_3000_A.D..php'
+p1013
+sS'Volleyball'
+p1014
+S'/roms/atari2600/15830/Volleyball.php'
+p1015
+sS'Kaboom!'
+p1016
+S'/roms/atari2600/16310/Kaboom!.php'
+p1017
+sS'Super-Cowboy beim Rodeo'
+p1018
+S'/roms/atari2600/16233/Super-Cowboy_beim_Rodeo.php'
+p1019
+sS'Tomarc the Barbarian'
+p1020
+S'/roms/atari2600/15755/Tomarc_the_Barbarian.php'
+p1021
+sS'Gauntlet'
+p1022
+S'/roms/atari2600/15822/Gauntlet.php'
+p1023
+sS'Spider-Man'
+p1024
+S'/roms/atari2600/15797/Spider-Man.php'
+p1025
+sS'Hell Driver'
+p1026
+S'/roms/atari2600/16055/Hell_Driver.php'
+p1027
+sS'Espial'
+p1028
+S'/roms/atari2600/15800/Espial.php'
+p1029
+sS'Crystal Castles'
+p1030
+S'/roms/atari2600/15959/Crystal_Castles.php'
+p1031
+sS'SwordQuest - Waterworld'
+p1032
+S'/roms/atari2600/16139/SwordQuest_-_Waterworld.php'
+p1033
+sS'RealSports Football'
+p1034
+S'/roms/atari2600/15714/RealSports_Football.php'
+p1035
+sS'Marineflieger'
+p1036
+S'/roms/atari2600/15871/Marineflieger.php'
+p1037
+sS'Space Attack'
+p1038
+S'/roms/atari2600/15770/Space_Attack.php'
+p1039
+sS'Ghost Manor'
+p1040
+S'/roms/atari2600/16178/Ghost_Manor.php'
+p1041
+sS'Shuttle Orbiter'
+p1042
+S'/roms/atari2600/15915/Shuttle_Orbiter.php'
+p1043
+sS'Thunderground'
+p1044
+S'/roms/atari2600/15912/Thunderground.php'
+p1045
+sS'Pygmy'
+p1046
+S'/roms/atari2600/16131/Pygmy.php'
+p1047
+sS'Bugs'
+p1048
+S'/roms/atari2600/16060/Bugs.php'
+p1049
+sS'Donkey Kong Jr.'
+p1050
+S'/roms/atari2600/16035/Donkey_Kong_Jr..php'
+p1051
+sS'Submarine Commander'
+p1052
+S'/roms/atari2600/15759/Submarine_Commander.php'
+p1053
+sS'Tom Boy'
+p1054
+S'/roms/atari2600/16075/Tom_Boy.php'
+p1055
+sS'Snow White (Prototype)'
+p1056
+S'/roms/atari2600/16333/Snow_White_(Prototype).php'
+p1057
+sS'Skeet Shoot'
+p1058
+S'/roms/atari2600/15812/Skeet_Shoot.php'
+p1059
+sS'Venture'
+p1060
+S'/roms/atari2600/16067/Venture.php'
+p1061
+sS'Dragonfire'
+p1062
+S'/roms/atari2600/16284/Dragonfire.php'
+p1063
+sS'Walker'
+p1064
+S'/roms/atari2600/15918/Walker.php'
+p1065
+sS'Fatal Run'
+p1066
+S'/roms/atari2600/15874/Fatal_Run.php'
+p1067
+sS'Outlaw - GunSlinger'
+p1068
+S'/roms/atari2600/16268/Outlaw_-_GunSlinger.php'
+p1069
+sS'Grand Prix'
+p1070
+S'/roms/atari2600/16030/Grand_Prix.php'
+p1071
+sS'Commando'
+p1072
+S'/roms/atari2600/16101/Commando.php'
+p1073
+sS'Gas Hog (AKA Marspatrouille)'
+p1074
+S'/roms/atari2600/15757/Gas_Hog_(AKA_Marspatrouille).php'
+p1075
+sS'Title Match Pro Wrestling'
+p1076
+S'/roms/atari2600/15967/Title_Match_Pro_Wrestling.php'
+p1077
+sS'Frog Pond (Prototype)'
+p1078
+S'/roms/atari2600/15909/Frog_Pond_(Prototype).php'
+p1079
+sS'Gigolo'
+p1080
+S'/roms/atari2600/16145/Gigolo.php'
+p1081
+sS'Maze Craze'
+p1082
+S'/roms/atari2600/16034/Maze_Craze.php'
+p1083
+sS'Suicide Mission'
+p1084
+S'/roms/atari2600/16134/Suicide_Mission.php'
+p1085
+sS'Summer Games'
+p1086
+S'/roms/atari2600/15888/Summer_Games.php'
+p1087
+sS'Dolphin'
+p1088
+S'/roms/atari2600/16136/Dolphin.php'
+p1089
+sS'Ram It'
+p1090
+S'/roms/atari2600/16315/Ram_It.php'
+p1091
+sS'Mogul Maniac'
+p1092
+S'/roms/atari2600/16250/Mogul_Maniac.php'
+p1093
+sS"Pick 'n Pile"
+p1094
+S"/roms/atari2600/16051/Pick_'n_Pile.php"
+p1095
+sS'Concentration'
+p1096
+S'/roms/atari2600/16040/Concentration.php'
+p1097
+sS'Mind Maze (Prototype)'
+p1098
+S'/roms/atari2600/15823/Mind_Maze_(Prototype).php'
+p1099
+sS'Super Futebol'
+p1100
+S'/roms/atari2600/16177/Super_Futebol.php'
+p1101
+sS'Star Voyager'
+p1102
+S'/roms/atari2600/15904/Star_Voyager.php'
+p1103
+sS'Star Raiders'
+p1104
+S'/roms/atari2600/15766/Star_Raiders.php'
+p1105
+sS'Kwibble'
+p1106
+S'/roms/atari2600/16100/Kwibble.php'
+p1107
+sS'Snoopy and the Red Baron'
+p1108
+S'/roms/atari2600/16173/Snoopy_and_the_Red_Baron.php'
+p1109
+sS'Phantom UFO'
+p1110
+S'/roms/atari2600/16107/Phantom_UFO.php'
+p1111
+sS'Treasure Below'
+p1112
+S'/roms/atari2600/16004/Treasure_Below.php'
+p1113
+sS'Tuby Bird (Vogel Flieh)'
+p1114
+S'/roms/atari2600/16135/Tuby_Bird_(Vogel_Flieh).php'
+p1115
+sS'My Golf'
+p1116
+S'/roms/atari2600/15722/My_Golf.php'
+p1117
+sS'Phantom Tank'
+p1118
+S'/roms/atari2600/16254/Phantom_Tank.php'
+p1119
+sS'China Syndrome'
+p1120
+S'/roms/atari2600/16019/China_Syndrome.php'
+p1121
+sS'Fast Food'
+p1122
+S'/roms/atari2600/15960/Fast_Food.php'
+p1123
+sS'Warplock'
+p1124
+S'/roms/atari2600/16305/Warplock.php'
+p1125
+sS'Phaser Patrol'
+p1126
+S'/roms/atari2600/16295/Phaser_Patrol.php'
+p1127
+sS'Dragon Defender'
+p1128
+S'/roms/atari2600/16099/Dragon_Defender.php'
+p1129
+sS'Sprint Master'
+p1130
+S'/roms/atari2600/15849/Sprint_Master.php'
+p1131
+sS'Mario Bros'
+p1132
+S'/roms/atari2600/16240/Mario_Bros.php'
+p1133
+sS'Radar'
+p1134
+S'/roms/atari2600/16061/Radar.php'
+p1135
+sS'Berenstain Bears'
+p1136
+S'/roms/atari2600/16205/Berenstain_Bears.php'
+p1137
+sS'Quadrun'
+p1138
+S'/roms/atari2600/15827/Quadrun.php'
+p1139
+sS'Sir Lancelot'
+p1140
+S'/roms/atari2600/16122/Sir_Lancelot.php'
+p1141
+sS"Shootin' Gallery"
+p1142
+S"/roms/atari2600/15819/Shootin'_Gallery.php"
+p1143
+sS'Star Strike'
+p1144
+S'/roms/atari2600/16151/Star_Strike.php'
+p1145
+sS'Landung in der Normandie'
+p1146
+S'/roms/atari2600/16123/Landung_in_der_Normandie.php'
+p1147
+sS'Spider Fighter'
+p1148
+S'/roms/atari2600/15720/Spider_Fighter.php'
+p1149
+sS'Hangman'
+p1150
+S'/roms/atari2600/16129/Hangman.php'
+p1151
+sS'Othello'
+p1152
+S'/roms/atari2600/16031/Othello.php'
+p1153
+sS'Decathlon'
+p1154
+S'/roms/atari2600/16084/Decathlon.php'
+p1155
+sS'Dice Puzzle'
+p1156
+S'/roms/atari2600/15866/Dice_Puzzle.php'
+p1157
+sS'Solar Fox'
+p1158
+S'/roms/atari2600/16009/Solar_Fox.php'
+p1159
+sS'Incoming (Prototype)'
+p1160
+S'/roms/atari2600/15734/Incoming_(Prototype).php'
+p1161
+sS'Track and Field'
+p1162
+S'/roms/atari2600/16095/Track_and_Field.php'
+p1163
+sS'Blackjack (32-in-1)'
+p1164
+S'/roms/atari2600/15903/Blackjack_(32-in-1).php'
+p1165
+sS'Nitemare at Sunshine Bowl-a-Rama (Beta)'
+p1166
+S'/roms/atari2600/15744/Nitemare_at_Sunshine_Bowl-a-Rama_(Beta).php'
+p1167
+sS'Stampede'
+p1168
+S'/roms/atari2600/16184/Stampede.php'
+p1169
+sS'Turmoil'
+p1170
+S'/roms/atari2600/15999/Turmoil.php'
+p1171
+sS'Rabbit Transit'
+p1172
+S'/roms/atari2600/15813/Rabbit_Transit.php'
+p1173
+sS'Meteor Defense'
+p1174
+S'/roms/atari2600/16280/Meteor_Defense.php'
+p1175
+sS'Star Wars - Ewok Adventure (Prototype)'
+p1176
+S'/roms/atari2600/16217/Star_Wars_-_Ewok_Adventure_(Prototype).php'
+p1177
+sS'Canyon Bomber'
+p1178
+S'/roms/atari2600/16171/Canyon_Bomber.php'
+p1179
+sS'Death Trap'
+p1180
+S'/roms/atari2600/16046/Death_Trap.php'
+p1181
+sS'See Saw'
+p1182
+S'/roms/atari2600/16093/See_Saw.php'
+p1183
+sS'Karate'
+p1184
+S'/roms/atari2600/16358/Karate.php'
+p1185
+sS'Threshold'
+p1186
+S'/roms/atari2600/16159/Threshold.php'
+p1187
+sS'Vanguard'
+p1188
+S'/roms/atari2600/15743/Vanguard.php'
+p1189
+sS'Circus Atari'
+p1190
+S'/roms/atari2600/16111/Circus_Atari.php'
+p1191
+sS'Pengo'
+p1192
+S'/roms/atari2600/15879/Pengo.php'
+p1193
+sS'Fireball Preview'
+p1194
+S'/roms/atari2600/16282/Fireball_Preview.php'
+p1195
+sS'Cat Trax'
+p1196
+S'/roms/atari2600/16168/Cat_Trax.php'
+p1197
+sS'Enduro'
+p1198
+S'/roms/atari2600/15767/Enduro.php'
+p1199
+sS'Flag Capture'
+p1200
+S'/roms/atari2600/16007/Flag_Capture.php'
+p1201
+sS'M.A.S.H.'
+p1202
+S'/roms/atari2600/16221/M.A.S.H..php'
+p1203
+sS'Moon Patrol'
+p1204
+S'/roms/atari2600/16076/Moon_Patrol.php'
+p1205
+sS'Mountain Man (Winterjagt)'
+p1206
+S'/roms/atari2600/16321/Mountain_Man_(Winterjagt).php'
+p1207
+sS'RealSports Volleyball'
+p1208
+S'/roms/atari2600/16182/RealSports_Volleyball.php'
+p1209
+sS'Space Invaders'
+p1210
+S'/roms/atari2600/15910/Space_Invaders.php'
+p1211
+sS'Party Mix 3-3'
+p1212
+S'/roms/atari2600/16115/Party_Mix_3-3.php'
+p1213
+sS'Code Breaker'
+p1214
+S'/roms/atari2600/15997/Code_Breaker.php'
+p1215
+sS'Video Pinball'
+p1216
+S'/roms/atari2600/15715/Video_Pinball.php'
+p1217
+sS'Sky Patrol (Prototype)'
+p1218
+S'/roms/atari2600/16263/Sky_Patrol_(Prototype).php'
+p1219
+sS'Survival Run'
+p1220
+S'/roms/atari2600/15781/Survival_Run.php'
+p1221
+sS'Entombed'
+p1222
+S'/roms/atari2600/15779/Entombed.php'
+p1223
+sS'Gangster'
+p1224
+S'/roms/atari2600/15804/Gangster.php'
+p1225
+sS'Survival Island'
+p1226
+S'/roms/atari2600/16189/Survival_Island.php'
+p1227
+sS'Dragonstomper 3-3'
+p1228
+S'/roms/atari2600/15931/Dragonstomper_3-3.php'
+p1229
+sS'Panda Chase'
+p1230
+S'/roms/atari2600/16045/Panda_Chase.php'
+p1231
+sS'Star Wars - the Arcade Game'
+p1232
+S'/roms/atari2600/16058/Star_Wars_-_the_Arcade_Game.php'
+p1233
+sS'Frostbite'
+p1234
+S'/roms/atari2600/16195/Frostbite.php'
+p1235
+sS'Lord of the Rings'
+p1236
+S'/roms/atari2600/16230/Lord_of_the_Rings.php'
+p1237
+sS'Stargate'
+p1238
+S'/roms/atari2600/16199/Stargate.php'
+p1239
+sS'Save the Whales'
+p1240
+S'/roms/atari2600/16320/Save_the_Whales.php'
+p1241
+ss.
