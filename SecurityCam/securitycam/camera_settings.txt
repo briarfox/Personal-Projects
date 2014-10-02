@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+	</dict>
+	<dict>
+		<key>House</key>
+		<dict>
+			<key>model</key>
+			<string>F18910</string>
+			<key>name</key>
+			<string>House</string>
+			<key>pwd</key>
+			<string>i43kr13t1n</string>
+			<key>url</key>
+			<string>http://houserip.dyndns.tv:8090</string>
+			<key>user</key>
+			<string>chouser56</string>
+		</dict>
+		<key>Garage</key>
+		<dict>
+			<key>model</key>
+			<string>F18910</string>
+			<key>name</key>
+			<string>Garage</string>
+			<key>pwd</key>
+			<string>i43kr13t1n</string>
+			<key>url</key>
+			<string>http://houserip.dyndns.tv:8091</string>
+			<key>user</key>
+			<string>chouser56</string>
+		</dict>
+	</dict>
+	<dict>
+	</dict>
+	<dict>
+	</dict>
+	<dict>
+	</dict>
+</array>
+</plist>
