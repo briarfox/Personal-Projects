@@ -43,14 +43,11 @@ class CameraPlugin(_AbstractPlugin):
     name = 'Generic Name'
     type = CAMERA
     
-    def __init__(self,type=None,name=None,user='username',passwd='password',host='http://exaple.com'):
+    def __init__(self,type=None,name=None):
         if type is not None:
             self.type = type
         if name is not None:
             self.name = name
-        self.username = user
-        self.passwd = passwd
-        self.host = host
             
     @abc.abstractproperty
     @property
