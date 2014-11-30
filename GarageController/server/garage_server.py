@@ -15,16 +15,18 @@ try:
     import RPi.GPIO as GPIO
     GPIO.setmode(GPIO.BCM)
     global sensor_pin 
-    sesnor_pin = int(config.get('rpi','sensor'))
+    sensor_pin= int(config.get('rpi','sensor'))
     print 'Pin Loaded'
     print sensor_pin
-    GPIO.setup(sensor_pin,GPIO.IN, pull_up_down = GPIO.pud_up)
+    GPIO.setup(sensor_pin,GPIO.IN, pull_up_down = GPIO.PUD_UP)
     GPIO_installed = True
-except:
+except Exception, e:
+    print e
     print 'RPi.GPIO not installed'
     
 #garage_state= False
 toggle_time=0
+garage_state = 'setup'
 GARAGE_OPEN = 1
 GARAGE_CLOSED = 0
 
@@ -38,8 +40,6 @@ def snapshot():
 
 def initmail():
   #global server
-  print config.get('mail','smtp')
-  print config.get('mail','port')
   server = smtplib.SMTP( config.get('mail','smtp'), config.get('mail','port') )
   if config.get('mail','tls') == 'y':
       server.starttls()
@@ -53,36 +53,39 @@ def initmail():
 def sendEmail(state):
   server = initmail()
   if server:
+    msg = 'Not Set'
     #msg = 'Wake up Sr. Charles Trowbridge! It is your last day!' #+ make_name()
     t = datetime.now().strftime('%H:%M:%S')
     if state == GARAGE_OPEN:
-        msg = 'Garage Open (%s)'%t
+        msg = '\nGarage Open (%s)' % t
     if state == GARAGE_CLOSED:
-        msg = 'Garage Closed (%s)'%t
+        msg = '\nGarage Closed (%s)' % t
         
     try:
-      server.sendmail( config.get('mail','send_as'), config.get('mail','recipients'), msg )
+        print msg + msg
+        server.sendmail( config.get('mail','send_as'), config.get('mail','recipients'), msg )
     except Exception, e:# smtplib.SMTPRecipientsRefused, e:
-      print e
+        print e
     finally:
-      server.close()
+        server.close()
       
 def toggle_garage():
     t = datetime.now().strftime('%H:%M:%S')
     print t
     
 def garage_status():
+    global garage_state
     if GPIO_installed:
         while True:
-            if not garage_state:
-                global garage_state 
-                garage_state = GPIO.input(config.get('rpi','sensor'))
+            if garage_state == 'setup':
+                garage_state = GPIO.input(int(config.get('rpi','sensor')))
                 sendEmail(garage_state)
             
-            if garage_state != GPIO.input(config.get('rpi','sensor')):
+            if garage_state != GPIO.input(int(config.get('rpi','sensor'))):
+                #sendEmail(garage_state)
+                garage_state = GPIO.input(int(config.get('rpi','sensor')))
+                
                 sendEmail(garage_state)
-                garage_state = GPIO.input(config.get('rpi','sensor'))
-        
 
 @route('/GarageOpener')
 def trigger():
@@ -103,7 +106,7 @@ def trigger():
         return resp
 #print snapshot()   
 
-t = threading.thread(target=garage_status)
+t = threading.Thread(target=garage_status)
 t.start()
 
 
