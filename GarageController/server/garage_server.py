@@ -14,7 +14,8 @@ config.read('config.conf')
 try:
     import RPi.GPIO as GPIO
     GPIO.setmode(GPIO.BCM)
-    global sensor_pin = int(config.get('rpi','sensor'))
+    global sensor_pin 
+    sesnor_pin = int(config.get('rpi','sensor'))
     print 'Pin Loaded'
     print sensor_pin
     GPIO.setup(sensor_pin,GPIO.IN, pull_up_down = GPIO.pud_up)
@@ -74,7 +75,8 @@ def garage_status():
     if GPIO_installed:
         while True:
             if not garage_state:
-                global garage_state = GPIO.input(config.get('rpi','sensor'))
+                global garage_state 
+                garage_state = GPIO.input(config.get('rpi','sensor'))
                 sendEmail(garage_state)
             
             if garage_state != GPIO.input(config.get('rpi','sensor')):
