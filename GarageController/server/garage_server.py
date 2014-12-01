@@ -3,8 +3,9 @@ from datetime import datetime
 import smtplib
 import requests
 import threading
+import time
 
-from bottle import route, run, request, HTTPResponse
+from bottle import route, run, request, HTTPResponse, post
 #from nanpy import 
 
 config = SafeConfigParser()
@@ -16,9 +17,12 @@ try:
     GPIO.setmode(GPIO.BCM)
     global sensor_pin 
     sensor_pin= int(config.get('rpi','sensor'))
+    garage_pin = int(config.get('rpi','open'))
     print 'Pin Loaded'
     print sensor_pin
     GPIO.setup(sensor_pin,GPIO.IN, pull_up_down = GPIO.PUD_UP)
+    GPIO.setup(garage_pin,GPIO.OUT, initial = GPIO.HIGH)
+    
     GPIO_installed = True
 except Exception, e:
     print e
@@ -70,8 +74,12 @@ def sendEmail(state):
         server.close()
       
 def toggle_garage():
-    t = datetime.now().strftime('%H:%M:%S')
-    print t
+    print 'Garage Pin True'
+    GPIO.output(garage_pin, GPIO.LOW)
+    time.sleep(1)
+    print 'Garage Pin False'
+    GPIO.output(garage_pin, GPIO.HIGH)
+    
     
 def garage_status():
     global garage_state
@@ -87,14 +95,14 @@ def garage_status():
                 
                 sendEmail(garage_state)
 
-@route('/GarageOpener')
+@post('/GarageOpener')
 def trigger():
     passwd = request.forms.get('password')
-    if 'test' == config.get('host','passwd'):
+    if passwd == config.get('host','passwd'):
         if request.forms.get('toggle'):
             toggle_garage()
-            if config.get('mail','notify') == 'True':
-                sendEmail('Garage Opened!')
+            #if config.get('mail','notify') == 'True':
+            #    sendEmail('Garage Opened!')
         else:
             res = snapshot()
             resp = HTTPResponse(body=res,status=400)
@@ -108,7 +116,7 @@ def trigger():
 
 t = threading.Thread(target=garage_status)
 t.start()
-
+print GPIO.input(4)
 
 run(host=config.get('host','server'), port=config.get('host','port'))
 #sendEmail('Test')
