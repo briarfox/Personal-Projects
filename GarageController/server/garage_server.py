@@ -97,26 +97,32 @@ def garage_status():
 
 @post('/GarageOpener')
 def trigger():
-    passwd = request.forms.get('password')
-    if passwd == config.get('host','passwd'):
-        if request.forms.get('toggle'):
-            toggle_garage()
-            #if config.get('mail','notify') == 'True':
-            #    sendEmail('Garage Opened!')
+    try:
+        passwd = request.forms.get('password')
+        if passwd == config.get('host','passwd'):
+            if request.forms.get('toggle'):
+                toggle_garage()
+                #if config.get('mail','notify') == 'True':
+                #    sendEmail('Garage Opened!')
+            else:
+                res = snapshot()
+                resp = HTTPResponse(body=res,status=400)
+                resp.set_header('content_type', 'image/jpeg')
+                resp.set_header('garage_state', garage_state)
+                return resp
         else:
-            res = snapshot()
-            resp = HTTPResponse(body=res,status=400)
-            resp.set_header('content_type', 'image/jpeg')
-            resp.set_header('garage_state', garage_state)
+            resp = HTTPResponse(body='test',status=404)
             return resp
-    else:
-        resp = HTTPResponse(body='test',status=404)
-        return resp
+    except IOError, e:
+        print e
 #print snapshot()   
 
 t = threading.Thread(target=garage_status)
 t.start()
-print GPIO.input(4)
+#print GPIO.input(4)
 
-run(host=config.get('host','server'), port=config.get('host','port'))
+try:
+    run(host=config.get('host','server'), port=config.get('host','port'))
+except IOError,e:
+    print e
 #sendEmail('Test')
