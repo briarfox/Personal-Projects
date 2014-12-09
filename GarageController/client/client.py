@@ -37,6 +37,7 @@ def settings(sender):
 
 def update():
     while True:
+        time.sleep(1)
         try:
             payload = {'password': passwd}
             res = requests.post(url,data=payload)
