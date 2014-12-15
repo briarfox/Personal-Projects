@@ -25,12 +25,14 @@ try:
     
     GPIO_installed = True
 except Exception, e:
+    GPIO_installed = False
     print e
     print 'RPi.GPIO not installed'
     
 #garage_state= False
 toggle_time=0
 garage_state = 'setup'
+garage_user = 'System'
 GARAGE_OPEN = 1
 GARAGE_CLOSED = 0
 
@@ -54,16 +56,16 @@ def initmail():
     
   return server
   
-def sendEmail(state):
+def sendEmail(state,user='Unknown'):
   server = initmail()
   if server:
     msg = 'Not Set'
     #msg = 'Wake up Sr. Charles Trowbridge! It is your last day!' #+ make_name()
     t = datetime.now().strftime('%H:%M:%S')
     if state == GARAGE_OPEN:
-        msg = '\nGarage Open (%s)' % t
+        msg = '\n%s Opened Garage at (%s)' % (user,t)
     if state == GARAGE_CLOSED:
-        msg = '\nGarage Closed (%s)' % t
+        msg = '\n%s Closed Garage at (%s)' % (user,t)
         
     try:
         print msg + msg
@@ -74,33 +76,42 @@ def sendEmail(state):
         server.close()
       
 def toggle_garage():
-    print 'Garage Pin True'
-    GPIO.output(garage_pin, GPIO.LOW)
-    time.sleep(1)
-    print 'Garage Pin False'
-    GPIO.output(garage_pin, GPIO.HIGH)
+    if GPIO_installed:
+        print 'Garage Pin True'
+        GPIO.output(garage_pin, GPIO.LOW)
+        time.sleep(1)
+        print 'Garage Pin False'
+        GPIO.output(garage_pin, GPIO.HIGH)
+        
     
     
 def garage_status():
     global garage_state
+    global garage_user
     if GPIO_installed:
         while True:
             if garage_state == 'setup':
                 garage_state = GPIO.input(int(config.get('rpi','sensor')))
-                sendEmail(garage_state)
-            
+                time.sleep(1)
+                sendEmail(garage_state,user=garage_user)
+                garage_user = 'Unknown'
             if garage_state != GPIO.input(int(config.get('rpi','sensor'))):
                 #sendEmail(garage_state)
                 garage_state = GPIO.input(int(config.get('rpi','sensor')))
                 
-                sendEmail(garage_state)
+                sendEmail(garage_state,user=garage_user)
+                garage_user = 'Unknown'
+
 
 @post('/GarageOpener')
 def trigger():
+    global garage_user
     try:
         passwd = request.forms.get('password')
         if passwd == config.get('host','passwd'):
             if request.forms.get('toggle'):
+                if request.forms.get('user'):
+                    garage_user = request.forms.get('user')
                 toggle_garage()
                 #if config.get('mail','notify') == 'True':
                 #    sendEmail('Garage Opened!')

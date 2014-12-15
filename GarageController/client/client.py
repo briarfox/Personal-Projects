@@ -18,19 +18,24 @@ if not os.path.isfile('client.pyui'):
 
 link = '/GarageOpener'
 url = 'http://fakeurl.com'
+user = 'user'
 passwd = 'password'#hashlib.md5('test').hexdigest()
 
 @ui.in_background
 def settings(sender):
-    res = console.login_alert('Host Info','host url and password','http://www.somethings.com','password')
-    if res:
+    res_url = console.input_alert('Server url:port','http://www.somethings.com:8000')
+    res = console.login_alert('Host Info','User and password','user','password')
+    if res_url and res:
         global url
+        global user
         global passwd
         with open('settings.conf','w') as f:
             f.write('[settings]\n')
-            f.write('host=%s\n' % res[0])
-            url = res[0]+link
+            f.write('host=%s\n' % res_url)
+            url = res_url+link
             passwd = hashlib.md5(res[1]).hexdigest()
+            user = res[0]
+            f.write('user=%s\n' % user)
             f.write('passwd=%s\n' % passwd)
     
     
@@ -53,7 +58,7 @@ def update():
 
 def button_pressed(sender):
     print 'pressed'
-    payload= {'password': passwd,'toggle': '1'}
+    payload= {'password': passwd,'user': user,'toggle': '1'}
     requests.post(url,data=payload)
     
 if not os.path.isfile('settings.conf'):
@@ -64,9 +69,11 @@ else:
     config = SafeConfigParser()
     config.read('settings.conf')
     url = config.get('settings','host')+link
+    user = config.get('settings','user')
     passwd = config.get('settings','passwd')
     
 print url
+print user
 print passwd
 view = ui.load_view()
 view.present('full_screen')
